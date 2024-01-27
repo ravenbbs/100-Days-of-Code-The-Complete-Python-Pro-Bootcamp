@@ -1,0 +1,12 @@
+print('Bienvenido al calculador de propinas')
+print('Ingresa el precio de la cuenta $: ')
+bill = float(input())
+print('Que porcentaje de propina te gustaria dar')
+print('10, 12 o 15?')
+tip = int(input())
+print('A cuantas personas se va a repartir la cuenta?')
+people = int(input())
+total = (((bill * tip) / 100) + bill) / people 
+string = "{:.2f}".format(total)
+print(f'La cuenta es de {bill}, el porcentade de propina es %{tip} y  se va a repartir entre {people} personas.')
+print(f'El total a pagar por persona es {string}')
