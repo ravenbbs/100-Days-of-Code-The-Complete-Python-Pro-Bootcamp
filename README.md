@@ -23,3 +23,7 @@ El bootcamp "100 días de Python" de Angela Yu es un curso integral diseñado pa
 Para obtener más información sobre el curso e inscribirse, visite el [sitio web de Angela Yu](https://www.appbrewery.co/).
 
 ---
+
+![wallpaper](wallpaper.png)
+
+---
