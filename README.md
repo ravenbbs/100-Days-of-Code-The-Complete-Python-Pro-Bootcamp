@@ -5,8 +5,7 @@
 ![Course Logo](logo.png)
 
 ---
-Este repositorio contiene código y proyectos completados durante el bootcamp "100 Days of Python" de Angela Yu. Este
-bootcamp es un curso intensivo de programación que cubre una amplia gama de temas en programación Python.
+Este repositorio contiene código y proyectos completados durante el bootcamp "100 Days of Python" de Angela Yu. Este bootcamp es un curso intensivo de programación que cubre una amplia gama de temas en programación Python.
 
 ## Tabla de contenido
 
@@ -31,10 +30,10 @@ Para obtener más información sobre el curso e inscribirse, visite el [sitio we
 
 - [x] [Día 01](día-01): Trabajar con variables en Python para administrar datos
 - [x] [Día 02](día-02): Comprensión de los tipos de datos y cómo manipular cadenas
-- [x] [Día 03](día-03): Flujo de control y operadores lógicos
-- [x] [Día 04](día-04): Aleatorización y listas de Python
-- [x] [Día 05](día-05): Bucles de Python
-- [x] [Día 06](día-06): Funciones de Python y Karel
+- [Día 03](día-03): Flujo de control y operadores lógicos
+- [Día 04](día-04): Aleatorización y listas de Python
+- [Día 05](día-05): Bucles de Python
+- [Día 06](día-06): Funciones de Python y Karel
 - [Día 07](día-07): Ahorcado
 - [Día 08](día-08): Parámetros de función y cifrado César
 - [Día 09](día-09): Diccionarios, anidamiento y subasta secreta
